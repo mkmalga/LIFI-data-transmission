@@ -2,7 +2,7 @@
 void setup() {
 // put your setup code here, to run once:
 pinMode (LASERPIN, OUTPUT) ;
-char myText[] = "KASHETTY BRIJESH";
+char myText[] = "#########";//data to be transmitted
 int length = sizeof(myText);
 int ar[20];
 int m;
