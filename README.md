@@ -12,3 +12,9 @@ communication category and operates in the visible light band, which has higher 
 
 ![image](https://github.com/user-attachments/assets/ec6b8499-ce07-483e-b332-969957843796)
 
+
+
+
+![image](https://github.com/user-attachments/assets/807e06aa-dce7-4580-8b16-03936d4ea8b6)
+
+
